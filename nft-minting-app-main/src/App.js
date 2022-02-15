@@ -415,7 +415,7 @@ function App() {
             }}
           >
             Please make sure you are connected to the right network (
-            {CONFIG.NETWORK.NAME} mumbai) and the correct address. Please note:
+            {CONFIG.NETWORK.NAME} Mumbai ) and the correct address. Please note:
             Once you make the purchase, you cannot undo this action.
           </s.TextDescription>
           <s.SpacerSmall />
