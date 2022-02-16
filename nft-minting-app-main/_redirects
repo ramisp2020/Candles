@@ -1,4 +1,0 @@
-# Redirects from what the browser requests to what we serve
-/home           		 	  /
-https://familiarsnft.netlify.app/config/config.json  				https://familiarsnft.netlify.app
-https://familiarsnft.netlify.app/config/abi.json              		https://familiarsnft.netlify.app
